@@ -20,7 +20,7 @@ Pages:
 * Chi2 + Alpha
 * BF pie
 
-Color scheme
+Miffy color scheme from: https://www.colourlovers.com/palette/1469250/Childhood_Miffy
 
 Yellow: #ECDA41
 Ornge: #FF6F08
